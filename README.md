@@ -1,4 +1,4 @@
-# AI Aircraft Maintenance System ✈️🤖         
+# AI Aircraft Maintenance System ✈️🤖          
 
 A production-oriented Generative AI application that analyzes aircraft flight sensor data and generates AI-powered maintenance recommendations using **Amazon Bedrock**. The application follows a cloud-native microservices architecture with **React**, **FastAPI**, **Docker**, **Kubernetes (Amazon EKS)**, and **GitHub Actions**.
 
