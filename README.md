@@ -1,4 +1,5 @@
-<img width="480" height="230" alt="image" src="https://github.com/user-attachments/assets/02bcc0fe-c16b-4ff1-a8e0-79d2a118b21b" />
+<img width="1280" height="614" alt="image" src="https://github.com/user-attachments/assets/0d3536c3-b88d-4829-b454-f564251301a0" />
+
 
 # AI Aircraft Maintenance System ✈️🤖          
 
